@@ -101,20 +101,38 @@ Note: The example of not configured LED display, it displays default setting (Mo
 <img src="https://github.com/hci-a-if-its-2019/assignment-0-akmal1997/blob/master/P_20171221_220213_vHDR_Auto.jpg?raw=true" width="600" height="1024">
 <br>
 Note: The example of not configured inside LED display, it displays default setting (Most default setting is "PT KERETA API INDONESIA (PERSERO) ANDA ADALAH PRIORITAS KAMI"), Source: Own Documentation
-
+<br>
 <b>Problems:</b>
 <br>
 Let's look for the software picture:
 <br>
 1. For the waypoint map, you must input manually for the waypoint. The waypoint not embedded with the GPS and Maps installed on GPS. And, there are cannot add the waypoint manually (All saved in one file, you must click "Buka File" (Open File) and that file contains the journey detail and waypoint
-<br>
 2. You cannot config the journey details manually (from the picture) (Because you must open the file first)
-<br>
 3. If the another train was placed and the train serial number doesn't exist on train configuration (Konfigurasi Kereta) dropdown, you cannot add it manually (Only from the picture, i don't know if can)
+<br>
+<b>Solutions:</b>
+1. Add the features on software (like manually config journey details, manual configuration)
+<br>
+2. Embed a map to a GPS installed on PIDS system. So, it can used easily without configure a waypoints
+<br>
+<br>
+<h3>3. Blablabla</h3>
+
+<b>Description:</b>
+<br>
+
+<b>Pictures:</b>
+<br>
+<b>Problems:</b>
+<br>
+
 <br>
 <br>
 <b>Solutions:</b>
 <br>
-1. Add the features on software (like manually config journey details, manual configuration)
 <br>
-2. Embed a map to a GPS installed on PIDS system. So, it can used easily without configure a waypoints
+<br>
+<h2>Refrences:</h2>
+http://www.cracked.com/pictofacts-537-14-simple-fixes-terrible-design-flaws/
+<br>
+https://simplicable.com/new/design-flaw
