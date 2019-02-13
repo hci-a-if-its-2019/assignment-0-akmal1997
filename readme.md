@@ -102,6 +102,7 @@ Note: The example of not configured LED display, it displays default setting (Mo
 <br>
 Note: The example of not configured inside LED display, it displays default setting (Most default setting is "PT KERETA API INDONESIA (PERSERO) ANDA ADALAH PRIORITAS KAMI"), Source: Own Documentation
 <br>
+<br>
 <b>Problems:</b>
 <br>
 Let's look for the software picture:
@@ -118,8 +119,7 @@ Let's look for the software picture:
 <br>
 <br>
 <h3>3. Sahabat Kereta Webshop</h3>
-<br>
-<br>
+
 <b>Description:</b>
 <br>
 URL: http://sahabatkereta.or.id/shop/
