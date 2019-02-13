@@ -124,7 +124,7 @@ Let's look for the software picture:
 <br>
 URL: http://sahabatkereta.or.id/shop/
 <br>
-Used for buy Sahabat Kereta's things like uniform for formal event (like Gathering, Posko Relawan Angkutan Lebaran/Nataru (Refugees for Eid or Christmas & New Year), Name badge keychain, etc)
+Used for buy Sahabat Kereta's things like uniform for formal event (like Gathering, Posko Relawan Angkutan Lebaran/Nataru (Volunteer for Eid or Christmas & New Year), Name badge keychain, etc)
 <br>
 <br>
 <b>Pictures:</b>
