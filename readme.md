@@ -147,7 +147,6 @@ Yeah, you can buy it..... although the stock is currently zero (and using fake i
 <b>Solutions:</b>
 <br>
 1. Fix the product details system (If the stock was currently zero, you cannot buy them)
-<br>
 2. Fix the order system (You must login and register with valid Sahabat Kereta ID Number (NISK). In that marketplace, there is a login form, but if you want to buy this keychain, you can buy it without login. And if you want to buy it, you must login it. So, you cannot buy that thing using fake identity)
 <br>
 <br>
