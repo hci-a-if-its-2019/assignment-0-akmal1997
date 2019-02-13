@@ -111,25 +111,44 @@ Let's look for the software picture:
 3. If the another train was placed and the train serial number doesn't exist on train configuration (Konfigurasi Kereta) dropdown, you cannot add it manually (Only from the picture, i don't know if can)
 <br>
 <b>Solutions:</b>
+<br>
 1. Add the features on software (like manually config journey details, manual configuration)
 <br>
 2. Embed a map to a GPS installed on PIDS system. So, it can used easily without configure a waypoints
 <br>
 <br>
-<h3>3. Blablabla</h3>
-
+<h3>3. Sahabat Kereta Webshop</h3>
+<br>
+<br>
 <b>Description:</b>
 <br>
-
+URL: http://sahabatkereta.or.id/shop/
+<br>
+Used for buy Sahabat Kereta's things like uniform for formal event (like Gathering, Posko Relawan Angkutan Lebaran/Nataru (Refugees for Eid or Christmas & New Year), Name badge keychain, etc)
+<br>
+<br>
 <b>Pictures:</b>
+<img src="https://github.com/hci-a-if-its-2019/assignment-0-akmal1997/blob/master/Untitled.jpg?raw=true" width="1024" height="600">
+<br>
 <br>
 <b>Problems:</b>
 <br>
-
+Okay, the problem is.... let's try to buy the name badge keychain and input our details (NOTE: All using fake identity)
+<br>
+<img src="https://github.com/hci-a-if-its-2019/assignment-0-akmal1997/blob/master/Untitled2.jpg?raw=true" width="1024" height="600">
+<br>
+And, we know that keychain is out of stock. And.... what if we push to save and buy. The result is.....
+<br>
+<img src="https://github.com/hci-a-if-its-2019/assignment-0-akmal1997/blob/master/Untitled3.jpg?raw=true" width="1024" height="600">
+<br>
+Yeah, you can buy it..... although the stock is currently zero (and using fake identity :) )
 <br>
 <br>
 <b>Solutions:</b>
 <br>
+1. Fix the product details system (If the stock was currently zero, you cannot buy them)
+<br>
+2. Fix the order system (You must login and register with valid Sahabat Kereta ID Number (NISK). In that marketplace, there is a login form, but if you want to buy this keychain, you can buy it without login. And if you want to buy it, you must login it. So, you cannot buy that thing using fake identity)
 <br>
 <br>
 <h2>Refrences:</h2>
