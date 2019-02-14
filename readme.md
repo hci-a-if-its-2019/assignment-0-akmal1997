@@ -42,6 +42,10 @@ You must rid the handle and stick a notice on door. Just like this (The example 
 <br>
 <img src="https://github.com/hci-a-if-its-2019/assignment-0-akmal1997/blob/master/vlcsnap-2019-02-13-19h24m09s819.png?raw=true" width="400" height="600" align="center">
 <br>
+Click for video on below picture
+<br>
+[![](http://img.youtube.com/vi/syh7lZV9GO8/0.jpg)](http://www.youtube.com/watch?v=syh7lZV9GO8 "Argo Bromo Anggrek")
+<br>
 Source: Own Documentation
 <br>
 <br>
