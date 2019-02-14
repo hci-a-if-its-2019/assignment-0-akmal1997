@@ -89,9 +89,13 @@ Note: The example of configured LED display and matched with a train (from the p
 Note: The example of configured LED display and matched with a train (from the platname). And showing the train name (Argo Dwipangga) and carriage number (Car number 5), Source: Aditya Nugroho
 <br>
 <br>
-<img src="https://github.com/hci-a-if-its-2019/assignment-0-akmal1997/blob/master/WhatsApp%20Image%202019-02-13%20at%2009.21.12.jpeg?raw=true">
+<img src="https://github.com/hci-a-if-its-2019/assignment-0-akmal1997/blob/master/Screenshot%20(8).png?raw=true">
 <br>
-Note: The example of configured LED display and showing the train name (Sribillah Premium), carriage number (Car number 5), and clock (For the clock column, it can changed to altimeter, train position, ETA, and speed). Source: Hafiz Nugroho
+<img src="https://github.com/hci-a-if-its-2019/assignment-0-akmal1997/blob/master/20180812_214400.jpg?raw=true">
+<br>
+<img src="https://github.com/hci-a-if-its-2019/assignment-0-akmal1997/blob/master/20180812_214423.jpg?raw=true">
+<br>
+Note: From top to bottom. The example of configured LED display and showing the carriage number (M1 stands for dining car) and Train Name (KA Kaligung), Train position and clock, and train position and train speed. Source: Tengku Rafli Rizqulloh
 <br>
 <img src="https://github.com/hci-a-if-its-2019/assignment-0-akmal1997/blob/master/275814.jpg?raw=true">
 <br>
